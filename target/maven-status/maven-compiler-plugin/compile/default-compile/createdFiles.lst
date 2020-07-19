@@ -1,0 +1,10 @@
+com/company/exceptions/WrongQuestionAnsweringInput.class
+com/company/products/Product.class
+com/company/Main.class
+com/company/products/chocolates/Chocolates.class
+com/company/vendingMachine/VMSeller.class
+com/company/products/drinks/Drinks.class
+com/company/vendingMachine/ProductsMatrix.class
+com/company/products/snacks/Snacks.class
+com/company/exceptions/WrongProductInputFormatException.class
+com/company/vendingMachine/MachineHumanInterface.class
