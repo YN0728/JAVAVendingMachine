@@ -28,7 +28,7 @@ public class ProductsMatrix {
 		List<Product> basturmaShelf = new ArrayList<>();
 		List<Product> soujughShelf = new ArrayList<>();
 
-		for (int i = 0; i < 2; i++) {
+		for (int i = 0; i < 12; i++) {
 			derbyShelf.add(Chocolates.DERBY);
 			bountyShelf.add(Chocolates.BOUNTY);
 			twixShelf.add(Chocolates.TWIX);

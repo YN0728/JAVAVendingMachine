@@ -24,7 +24,7 @@ public class VMSeller {
 	}
 
 	private void compilePattern(Map<String,Integer> map, String input) {
-		if (Pattern.matches("[ABC]?:[012]", input)) {
+		if (Pattern.matches("^[ABC]?:[012]$", input)) {
 			map.put(input.split(":")[0], Integer.parseInt(input.split(":")[1]));
 		} else {
 			throw new WrongProductInputFormatException();
